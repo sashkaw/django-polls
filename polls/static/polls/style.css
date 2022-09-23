@@ -1,0 +1,18 @@
+*, body, ::before, ::after {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+
+li a {
+  color: white;
+  font-size: 40px;
+}
+
+input  {
+  background-color: rgb(81, 81, 120);
+}
+
+body {
+  background: white url("images/background.jpeg") no-repeat;
+}
